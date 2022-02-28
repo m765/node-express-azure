@@ -1,7 +1,7 @@
 trigger:
 - master
 
-pool:
+pool:Mypool
   vmImage: 'Ubuntu-16.04'
 
 steps:
